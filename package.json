@@ -19,7 +19,7 @@
     "react-images-upload": "^1.2.7",
     "react-joyride": "^2.1.1",
     "react-router-dom": "^5.0.1",
-    "react-scripts": "3.0.1",
+    "react-scripts": "5.0.1",
     "react-swipeable-views": "^0.13.3",
     "react-transition-group": "^4.3.0",
     "shepherd.js": "^5.0.1",
